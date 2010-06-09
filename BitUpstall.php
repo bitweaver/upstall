@@ -1,7 +1,7 @@
 <?php
 /**
-* $Header: /cvsroot/bitweaver/_bit_upstall/BitUpstall.php,v 1.1 2009/12/16 18:42:07 walterwoj Exp $
-* $Id: BitUpstall.php,v 1.1 2009/12/16 18:42:07 walterwoj Exp $
+* $Header$
+* $Id$
 */
 
 /**
@@ -10,7 +10,7 @@
 *
 * date created 12/12/2009
 * @author walter <walterwoj@yahoo.com>
-* @version $Revision: 1.1 $ $Date: 2009/12/16 18:42:07 $ $Author: walterwoj $
+* @version $Revision$
 * @class BitUpstall
 */
 
