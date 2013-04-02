@@ -17,7 +17,7 @@
 			{jstabs}
 				{jstab}
 					{legend legend="Upload File For UpStall"}
-						<div class="row">
+						<div class="control-group">
 							You can download packages from <a href="http://www.bitweaver.org/builds/packages/HEAD/">http://www.bitweaver.org/builds/packages/HEAD/</a>.<br/>
 							Please note:
 							<ul>
@@ -29,7 +29,7 @@
 								</li>
 							</ul>
 						</div>
-						<div class="row">
+						<div class="control-group">
 							{formlabel label="File:" for="upstall_file"}
 							{forminput}
 								<input type="file" size="60" name="upstall_file" id="upstall_file" />
@@ -45,7 +45,7 @@
 							{/forminput}
 						</div>
 						
-						<div class="row submit">
+						<div class="control-group submit">
 							<input type="submit" name="upload_upstall" value="{tr}Upload{/tr}" />
 						</div>
 					{/legend}
