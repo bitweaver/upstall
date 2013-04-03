@@ -1,4 +1,4 @@
-<ul>
+<ul class="dropdown-menu sub-menu">
 	<li>
 		<a class="item" href="{$smarty.const.KERNEL_PKG_URL}admin/index.php?page=upstall&amp;action=install&amp;source=upload">
 		{tr}UpStall A New Package{/tr}
